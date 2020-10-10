@@ -1,10 +1,11 @@
-### Hi there 👋, Sara Shahin
-#### Computer Science (AI & Machine Learning)
 ![Computer Science (AI & Machine Learning)](https://media-exp1.licdn.com/dms/image/C4E03AQFdAdTRHECiKA/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=-6Us9H79LlCzOg_1r1n6GvI3LLo2wYjtxah6dc5tJJQ)
+### Hi there 👋, I am Sara Shahin
+#### Computer Science (AI & Machine Learning)
 
 I am a BSc Computer Science(Artificial Intelligence and Machine Learning)undergraduate student at the University of London (Goldsmith) 1st year. please check my Linkedin at https://www.linkedin.com/in/sara-shahin-maat-3a842929/. Actively looking for new opportunities.
 
-Skills: JS / HTML / CSS / Python3 / Algorithms & Data Structure / Jupyter notebook / numpy py
+## Skills: 
+JS / HTML / CSS / Python3 / Algorithms & Data Structure / Jupyter notebook / numpy py
 
 - 🔭 I’m currently working on My own projects 
 - 🌱 I’m currently learning Object oriented programming 
