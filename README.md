@@ -2,7 +2,7 @@
 ### Hi there 👋, I am Sara Shahin
 #### Computer Science (AI & Machine Learning)
 
-I am a BSc Computer Science(Artificial Intelligence and Machine Learning)undergraduate student at the University of London (Goldsmith) the final semester. I am a computer science student who is enthusiastic and a quick learner. I am willing to gain experience in the technology industry, working with experts, in teams, developing code, building solutions, and delivering projects. My experience with coding (Python,C++, SQL, JavaScript, HTML, CSS) helped me develop the ability to quickly learn and code in any language, a skill which I am developing through undertaking a Machine Learning with Python course. I have completed Modules first year and second year. Actively looking for new opportunities.
+I am a BSc Computer Science(Artificial Intelligence and Machine Learning)undergraduate student at the University of London (Goldsmith) the final semester. I am a computer science student who is enthusiastic and a quick learner. I am willing to gain experience in the technology industry, working with experts, in teams, developing code, building solutions, and delivering projects. My experience with coding (Python, Keras, PyTorch and TensorFlow, Numpy, C++, SQL, JavaScript, HTML, CSS) helped me develop the ability to quickly learn and code in any language, a skill which I am developing through undertaking a Machine Learning with Python course. I have completed Modules first year and second year. Actively looking for new opportunities.
 
 ## Skills: 
 Python, Keras, PyTorch and TensorFlow, Numpy, C++, SQL, JavaScript, HTML, CSS
