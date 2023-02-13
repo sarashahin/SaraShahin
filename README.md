@@ -6,6 +6,7 @@ This Portfolio is a compilation of all the Data Science and Machine Learning pro
 
 
 Email: sara.shahin2007@gmail.com
+
 LinkedIn: linkedin.com/sara-shahin
 
 ## Skills: 
