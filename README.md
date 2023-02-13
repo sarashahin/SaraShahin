@@ -1,13 +1,8 @@
-![Computer Science (AI & Machine Learning)](https://media-exp1.licdn.com/dms/image/C4E03AQFdAdTRHECiKA/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=-6Us9H79LlCzOg_1r1n6GvI3LLo2wYjtxah6dc5tJJQ)
+
 ### Hi there 👋, I am Sara Shahin
 #### Computer Science (AI & Machine Learning)
 
-This Portfolio is a compilation of all the Data Science and Machine Learning projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis. Actively looking for new opportunities.
-
-
-Email: sara.shahin2007@gmail.com
-
-LinkedIn: linkedin.com/sara-shahin
+I am Sara and I am passionate about Data Science and Analytics. I have a Bachelor's in Computer Science(AI & Machine Learning) from Goldsmiths, University of London. Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
 
 ## Skills: 
 Python, Keras, PyTorch and TensorFlow, Numpy, C++, SQL, JavaScript, HTML, CSS
