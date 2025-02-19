@@ -1,6 +1,7 @@
 
 ### Hi there 👋, I am Sara Shahin
 
+#### PhD Student in AI
 #### MSc Artificial Intelligence
 ##### Bachelor of Science in Machine Learning and Artificial Intelligence
 
