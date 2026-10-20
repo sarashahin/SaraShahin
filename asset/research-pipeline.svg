@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="ibm-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="100%" style="stop-color:#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="ode-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a371f7"/>
+      <stop offset="100%" style="stop-color:#8957e5"/>
+    </linearGradient>
+    <linearGradient id="psd-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3fb950"/>
+      <stop offset="100%" style="stop-color:#238636"/>
+    </linearGradient>
+    <linearGradient id="gpu-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f778ba"/>
+      <stop offset="100%" style="stop-color:#db61a2"/>
+    </linearGradient>
+    <linearGradient id="output-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffa657"/>
+      <stop offset="100%" style="stop-color:#d29922"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="300" fill="url(#bg)"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#c9d1d9">
+    Research Pipeline: Unified Biodiversity Modelling
+  </text>
+  
+  <!-- Row 1: Input Models -->
+  <!-- IBM Box -->
+  <g transform="translate(80, 60)" filter="url(#shadow)">
+    <rect width="140" height="70" rx="8" fill="url(#ibm-grad)"/>
+    <text x="70" y="30" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#fff">
+      IBM
+    </text>
+    <text x="70" y="50" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      Individual-Based
+    </text>
+    <text x="70" y="62" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      Models
+    </text>
+  </g>
+  
+  <!-- ODE Box -->
+  <g transform="translate(330, 60)" filter="url(#shadow)">
+    <rect width="140" height="70" rx="8" fill="url(#ode-grad)"/>
+    <text x="70" y="30" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#fff">
+      ODE
+    </text>
+    <text x="70" y="50" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      Lotka-Volterra
+    </text>
+    <text x="70" y="62" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      Systems
+    </text>
+  </g>
+  
+  <!-- PSD Box -->
+  <g transform="translate(580, 60)" filter="url(#shadow)">
+    <rect width="140" height="70" rx="8" fill="url(#psd-grad)"/>
+    <text x="70" y="30" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#fff">
+      PSD
+    </text>
+    <text x="70" y="50" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      Probabilistic-Stochastic
+    </text>
+    <text x="70" y="62" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      -Deterministic
+    </text>
+  </g>
+  
+  <!-- Arrows from Row 1 to GPU -->
+  <g stroke="#58a6ff" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M150,130 L150,150 Q150,160 160,160 L350,160"/>
+    <path d="M400,130 L400,160"/>
+    <path d="M650,130 L650,150 Q650,160 640,160 L450,160"/>
+  </g>
+  
+  <!-- GPU Acceleration Box (Center) -->
+  <g transform="translate(300, 170)" filter="url(#shadow)">
+    <rect width="200" height="50" rx="8" fill="url(#gpu-grad)"/>
+    <text x="100" y="22" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">
+      🚀 GPU ACCELERATION
+    </text>
+    <text x="100" y="38" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
+      CuPy · CUDA · Numba
+    </text>
+  </g>
+  
+  <!-- Arrow from GPU to Output -->
+  <line x1="400" y1="220" x2="400" y2="240" stroke="#f778ba" stroke-width="2" opacity="0.6"/>
+  <polygon points="400,250 395,240 405,240" fill="#f778ba" opacity="0.6"/>
+  
+  <!-- Output Box -->
+  <g transform="translate(200, 255)" filter="url(#shadow)">
+    <rect width="400" height="35" rx="8" fill="url(#output-grad)"/>
+    <text x="200" y="23" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#fff">
+      Spatio-Temporal Biodiversity Predictions &amp; Conservation Insights
+    </text>
+  </g>
+  
+  <!-- Key features badges -->
+  <g transform="translate(80, 145)">
+    <rect width="80" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="40" y="13" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="9" fill="#8b949e">
+      Multi-patch
+    </text>
+  </g>
+  
+  <g transform="translate(330, 145)">
+    <rect width="80" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="40" y="13" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="9" fill="#8b949e">
+      Dispersal
+    </text>
+  </g>
+  
+  <g transform="translate(590, 145)">
+    <rect width="80" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="40" y="13" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="9" fill="#8b949e">
+      Unified
+    </text>
+  </g>
+</svg>
