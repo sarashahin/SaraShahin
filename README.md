@@ -278,7 +278,7 @@ Preprint DOI: https://doi.org/10.36227/techrxiv.171561173.31420188/v1
 
 self.phd_focus = "Generative AI for spatio-temporal biodiversity prediction"
 self.methods = [
-    "EcoDiffusion: conditional diffusion model trained on simulated communities",
+    "MetaDiffusion: conditional diffusion model trained on simulated communities",
     "Individual-based models (IBM), ODE and PSD simulation",
     "GPU-accelerated simulation",
     "Uncertainty quantification from sparse observations"
@@ -302,8 +302,7 @@ I'm open to research collaborations and opportunities in **AI**, **simulation**,
 <br>
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.shahin@qmul.ac.uk)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-shahin-3a842929/)
-[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/sarashahin/Sara-Shahin/blob/main/Profile.pdf)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-shahin-ai/)
 
 <br>
 
