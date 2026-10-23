@@ -46,9 +46,29 @@ ORCID: https://orcid.org/0009-0000-7847-6242
 
 ## 💼 Experience
 
-| Role | Institution | Period |
-|:-----|:------------|:-------|
-| **Demonstrator**, School of Biological and Behavioural Sciences | Queen Mary University of London | 2026 – Present |
+**Demonstrator** — Queen Mary University of London · 2026 – Present  
+Teaching Python, R, machine learning and data science, and assisting as a lecture assistant on the MSc module "AI and Data Science in Biology" (School of Biological and Behavioural Sciences).
+
+**PhD Student Researcher** — Queen Mary University of London · Jan 2025 – Present  
+Spatio-temporal process-aware models for biodiversity prediction. Simulating biodiversity dynamics with ODE, IBM and PSD models; training a diffusion model (MetaDiffusion) on simulated communities; predicting species distributions with quantified uncertainty from sparse data; producing replacement metrics for IUCN Red List assessments.
+
+**PhD DSG Participant — Maritime Oil Slick Detection using AI** — The Alan Turing Institute · Sept 2025  
+Two-week Data Study Group with Cefas: detecting oil leaks from shipwrecks in satellite SAR images. Built a reproducible remote-sensing pipeline for oil-slick delineation from Sentinel-2/1 imagery in a multidisciplinary team. Implemented grouped k-fold cross-validation by site to avoid leakage; produced before/after benchmarks (mIoU/F1).
+
+**Research Assistant** — Anglia Ruskin University · Mar 2024 – Aug 2024  
+Analysed camera-trap imagery for wildlife monitoring; developed a machine learning model for badger identification and designed a software interface for biometric identification, working with external partners.
+
+**Research Student** — Anglia Ruskin University · Dec 2023 – Mar 2024  
+Developed a deep learning approach for lung tumour detection; analysed and interpreted data, contributing to research reports and project planning.
+
+**Research Assistant Intern — Natural Language Processing** — University of London · May 2023 – Aug 2023  
+Research in NLP using BiLSTM and BERT models; managed computational workflows and recorded outcomes to support text-processing semantics.
+
+**IT Systems Support** — University of Cambridge · Nov 2018 – Dec 2020  
+Systems and user administration; hardware and software installation, configuration and troubleshooting; audio-visual support in seminar and meeting rooms; database support.
+
+**Internship Experience, Technology** — Bright Network · Jun 2020 – Jul 2020  
+Technology internship; contributed to face-recognition features for a banking app and gained experience in agile software development and project management.
 
 <br>
 
@@ -268,6 +288,24 @@ Preprint DOI: https://doi.org/10.36227/techrxiv.171561173.31420188/v1
 | 🌍 | **Open Source Summit Europe 2025** | Fully funded scholarship · Amsterdam |
 | 🧬 | **Bertelsmann Scholarship** | Genomic Data Science Track |
 | 👩‍💻 | **Women in Computer Science & Engineering** | Sponsored Delegate · Milan |
+
+<br>
+
+## 📜 Certifications
+
+- IBM AI Engineering Specialization
+- IBM Data Science Specialization
+- Supervised Machine Learning: Regression and Classification
+- Machine Learning
+- Foundations of Data Science: K-Means Clustering in Python
+
+<br>
+
+## 🗣️ Languages
+
+- Persian (native or bilingual)
+- English (full professional)
+- Arabic (limited working)
 
 <br>
 
