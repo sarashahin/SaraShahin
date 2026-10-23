@@ -47,7 +47,7 @@ ORCID: https://orcid.org/0009-0000-7847-6242
 ## 💼 Experience
 
 **Demonstrator** — Queen Mary University of London · 2026 – Present  
-Teaching Python, R, machine learning and data science, and assisting as a lecture assistant on the MSc module "AI and Data Science in Biology" (School of Biological and Behavioural Sciences).
+Teaching Python, R, machine learning and data science, and assisting as a Demonstrator on the MSc module "AI and Data Science in Biology" (School of Biological and Behavioural Sciences).
 
 **PhD Student Researcher** — Queen Mary University of London · Jan 2025 – Present  
 Spatio-temporal process-aware models for biodiversity prediction. Simulating biodiversity dynamics with ODE, IBM and PSD models; training a diffusion model (MetaDiffusion) on simulated communities; predicting species distributions with quantified uncertainty from sparse data; producing replacement metrics for IUCN Red List assessments.
