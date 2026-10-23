@@ -101,8 +101,8 @@ A 79.6M-parameter conditional diffusion model that reconstructs multi-species ra
 
 **Highlights:**
 - GNN for species interactions, temporal transformer for dynamics, U-Net denoiser
-- Trained on 240 simulated metacommunities, so every reconstruction is checked against the true range
-- Held-out communities: range size, fragmentation and spread match the truth (KS distances 0.13, 0.23, 0.095)
+- Trained on 204 simulation files (117 distinct communities), so every reconstruction is checked against the true range
+- On 25 unseen communities, fragmentation and spatial spread match the truth (Kolmogorov-Smirnov distances 0.076 and 0.056); the range-size distribution differs (0.295)
 
 **Poster B-S.B.31, ECCB 2026** · [Paper](https://zenodo.org/records/22175909) · [DOI](https://doi.org/10.5281/zenodo.23195560)
 
