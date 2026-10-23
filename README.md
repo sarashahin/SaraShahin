@@ -44,6 +44,14 @@ ORCID: https://orcid.org/0009-0000-7847-6242
 
 <br>
 
+## 💼 Experience
+
+| Role | Institution | Period |
+|:-----|:------------|:-------|
+| **Demonstrator**, School of Biological and Behavioural Sciences | Queen Mary University of London | 2026 – Present |
+
+<br>
+
 ## 🛠️ Technical Skills
 
 <div align="center">
