@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-PhD researcher at Queen Mary University of London (School of Biological and Behavioural Sciences), supervised by Prof. Axel Rossberg. I am a machine learning researcher working on generative models for sparse, high-dimensional spatiotemporal data.
+PhD researcher at Queen Mary University of London, supervised by Prof. Axel Rossberg. I am a machine learning researcher working on generative models for sparse, high-dimensional spatiotemporal data.
 
 My work is on conditional generative modelling: recovering full system states from partial, noisy observations, with ensemble-based uncertainty. The methods are domain-agnostic. I currently test them on species distribution data, and have previously worked on multimodal classification and automated assessment.
 
